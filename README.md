@@ -20,8 +20,5 @@
 ### Screenshots:
 
 ![Dashboard](https://github.com/sundaramawasthi/JPDB-project/blob/main/API%20TESTER.png)
-![Dashboard][(https://github.com/sundaramawasthi/JPDB-project/blob/main/JPDB.png)]
-![Dashboard][(https://github.com/sundaramawasthi/JPDB-project/blob/main/output.png)]
-![Dashboard][(https://github.com/sundaramawasthi/JPDB-project/blob/main/projectWEB-FROM.png)]
 
 
