@@ -2,7 +2,7 @@
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
-[Documentation Link](http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js"))
+[Documentation Link](http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js")
 
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
@@ -20,8 +20,10 @@
 
 ### Screenshots:
 
-![Dashboard] [(https://github.com/sundaramawasthi/JPDB-project/blob/main/API%20TESTER.png)]
-![Dashboard] [(https://github.com/sundaramawasthi/JPDB-project/blob/main/JPDB.png)]
+![Dashboard](https://github.com/sundaramawasthi/JPDB-project/blob/main/API%20TESTER.png)
 
-![Dashboard] [(https://github.com/sundaramawasthi/JPDB-project/blob/main/output.png)]
-![Dashboard] [(https://github.com/sundaramawasthi/JPDB-project/blob/main/projectWEB-FROM.png)]
+![Dashboard](https://github.com/sundaramawasthi/JPDB-project/blob/main/JPDB.png)
+
+![Dashboard](https://github.com/sundaramawasthi/JPDB-project/blob/main/output.png)
+
+![Dashboard](https://github.com/sundaramawasthi/JPDB-project/blob/main/projectWEB-FROM.png)
