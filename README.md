@@ -20,8 +20,8 @@
 ### Screenshots:
 
 ![Dashboard](https://github.com/sundaramawasthi/JPDB-project/blob/main/JPDB.png)
-https://github.com/sundaramawasthi/JPDB-project/blob/main/API%20TESTER.png
-https://github.com/sundaramawasthi/JPDB-project/blob/main/JPDB.png
-https://github.com/sundaramawasthi/JPDB-project/blob/main/output.png
+(https://github.com/sundaramawasthi/JPDB-project/blob/main/API%20TESTER.png)
+(https://github.com/sundaramawasthi/JPDB-project/blob/main/JPDB.png)
+(https://github.com/sundaramawasthi/JPDB-project/blob/main/output.png)
 
 
